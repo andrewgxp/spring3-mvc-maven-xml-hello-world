@@ -1,6 +1,6 @@
 name: web deployment
 
-on: [issues]
+on: [push]
 
 jobs:
   build:
